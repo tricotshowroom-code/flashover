@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="5">
+  <Content>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. HOLMAN - VISITATION - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A SERGEANT, 50s, checks Vance's credentials, then Rucker's. He straightens.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SERGEANT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Marshal Rucker. My daddy rode an engine in Selma. He'd talk about you.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What company?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>SERGEANT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Engine Two.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Good company.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The sergeant hands the identification back with both hands. Rucker empties his pockets into the tray.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Booths. Cloudy glass, palm marks at hand height. A cartoon-dog sticker on the middle pane. Rucker sits there. Vance takes the chair behind him, legal pad open.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The far door. AMOS HOYT, 50s, leaner, his whites washed gray, stops at the painted line and looks at who is on the other side. The OFFICER nods him forward. He stays at the line a while longer. Then he crosses and sits. The receiver stays on its hook.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Rucker lifts his. Waits.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Hoyt looks at Vance's blank pad. Then he picks up.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You went gray.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It suit you.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Rucker does not know what to do with that. Hoyt watches him not know.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VANCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Amos, we talked about how this would go. The Marshal has questions about the storeroom, and you said --</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I can tell him what I agreed to.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VANCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Then tell him.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(to Rucker)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I agreed to sit down.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>All right.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That's all I agreed to.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I heard you.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Twelve years. You don't come once. You don't write. You don't send her so much as a --</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He stops. Not because he is finished.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Go on.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Nineteen people, Marshal. You don't seem tore up.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Rucker reaches down for the folder.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That ain't an answer.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He sets the frame 61 enlargement against the glass.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This is the storeroom. Frame sixty-one. The other nine stop at that corner --</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That's my door.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>-- this one doesn't.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I wired that door open. Compressor'd cook itself in there with it shut. You can see the wire.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I can see it now.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Now.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Rucker's thumb on the edge of the photograph.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What else is in the folder.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Rucker lowers the photograph. An old legal-pad sheet against the glass. Dates in a column, in his hand.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The county's fires. The weeks between them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Who wrote this.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I did.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>When.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The summer we arrested you.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Hoyt reads it. Reads it again.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Six weeks. Four. Three. Six to mine. Then what.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Then nothing.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Nothing while I was in county. Nothing while I was at trial.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You stood up at my trial.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I did.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>With this in your --</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It was in the file.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>In the file.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It was in the --</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I heard you. I'm saying it back so you hear it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Hoyt puts the receiver down flat on the counter. Rucker can hear him breathe through it. Then Hoyt picks it back up.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I need the storeroom. The Friday. What was under the west shelves.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Chaplain keeps me a list. Who got buried when. I know who sang at Deena's. I got nineteen of those. You asked me a question, that's what I keep under my shelves.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I can't use that.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No. You can't.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Amos --</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Rucker stops.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>My girl was sixteen when they took me out my yard. She's a grown woman now. When that date comes, the one thing the State of Alabama hands her is a paper says her daddy burned nineteen people alive. That paper outlives me. You're the one man whose name can --</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He stops. His hand has closed on the counter.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I --</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ask me about the foam.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The foam. That Friday.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It was a storeroom twelve years ago.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Don't try to remember it. Stand in it. You come in off the rear hall. Cooler's at your back.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Cooler's on my right. You come in off the hall, cooler's on your right, door swings left into the mop sink.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(writing)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>On your right.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Then the crates. Beer crates, three high.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What's under the shelves.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The man running the crew. I told him twice I had to get in to the compressor Monday. He said it's temporary. Everything's temporary to a man don't have to get in there Monday.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The foam, Hoyt.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I'm telling you the foam. You asked what's under the shelves, I'm telling you how it got there. Rolled. On end. Up against my shelving. Three deep.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Three deep under the shelves, or out in the --</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Under. I said under. They kept bringing it in off the truck till you couldn't walk a line to the compressor. Three deep. Packed.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Anybody open a roll. Move the stack.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Not while I was there.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There's a jug. On the sill.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Hoyt closes his eyes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Five gallon. Two inches of water in it. Crew was about to kick it over. I set it up there myself.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He opens his eyes. He is somewhere else for a second.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I was keeping their mess off my floor.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(writing)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Day before.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Day before.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Hoyt watches the pen.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Say you find it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don't know that I will.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I didn't ask what you know. Say you find it. What happens to you.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That's not what this is for.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It's what I'm asking.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Rucker does not answer. Hoyt reads the answer off him anyway.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You had a Black man with keys and a grudge. That was room enough.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Rucker does not answer that, and does not look away from it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Here's mine. You put your name on it. Not hers. Yours. And it goes to Montgomery. You make the State receive it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VANCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Amos --</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I'm talking to him.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VANCE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And I'm talking to you. The day he signs doubt without cause they pull him off it, and your date stands. I don't need you innocent. I need the cause to fail.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>HOYT</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(to Rucker, not to her)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Then get the cause. Then do what I said. I'm done trusting what stays in a file.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RUCKER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I --</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>OFFICER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Time.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Hoyt stands before Rucker can finish. He hangs the receiver on its hook and walks to the door without looking back.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Rucker stays seated, the phone still in his hand.</Text>
+    </Paragraph>
+  </Content>
+</FinalDraft>
